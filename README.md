@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Wendel-Brasiliano/Wendel-Brasiliano/main/banner.png" alt="Banner Wendel Brasiliano" width="100%" onerror="this.src='https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wendel%20Brasiliano&fontSize=70'"/>
+<<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b5cc&height=250&section=header&text=Wendel%20Brasiliano&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Banner Wendel" width="100%" />
 </div>
 
 # Olá! 👋 Eu sou o Wendel Brasiliano
@@ -24,8 +24,8 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wendel-Brasiliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Wendel" height="150em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Brasiliano&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wendel-Brasiliano&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do Wendel" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Brasiliano&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="170px" />
 </div>
 
 ---
