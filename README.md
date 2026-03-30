@@ -24,10 +24,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Minhas Estatísticas no GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wendel-Brasiliano&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do Wendel" />
-</div>
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-brasiliano-9b3449356/?skipRedirect=true)
